@@ -1,0 +1,17 @@
+{
+  "name": "lordtony",
+  "compatibility_date": "2026-10-21",
+  "assets": {
+    "directory": "./public"
+  },
+  "observability": {
+    "enabled": true
+  },
+  "routes": [
+    {
+      "pattern": "lordtony.com",
+      "custom_domain": true
+    }
+  ],
+  "workers_dev": false
+}

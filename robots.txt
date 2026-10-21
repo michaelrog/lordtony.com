@@ -1,6 +1,0 @@
-500 (Internal Server Error) Server closed connection without sending any data back
-Content-Type: text/plain
-Client-Date: Sat, 15 Mar 2008 08:21:02 GMT
-Client-Warning: Internal response
-
-500 Server closed connection without sending any data back
